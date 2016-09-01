@@ -1,4 +1,4 @@
-####[从无到有开发连麦直播技术点整理-AnyRTC](https://github.com/DyncLang/DevLiveBook/blob/master/README.md)
+####[从无到有开发连麦直播技术点整理-AnyRTC](https://github.com/DyncLang/DevLiveBook)
 
 #### 直播关键字
 **采集**、**前处理**、**编码**、**传输**、**解码**、**渲染**, **推流**, **拉流**、**连麦**、**直播**、**互动**、**RTMP**
