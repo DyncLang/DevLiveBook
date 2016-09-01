@@ -1,7 +1,6 @@
 
 #### 直播关键字
-**采集**，**前处理**，**编码**，**传输**，**解码**，**渲染**, **推流**, **拉流**
-**连麦**、**直播**、**互动**、**RTMP**
+**采集**、**前处理**、**编码**、**传输**、**解码**、**渲染**, **推流**, **拉流**、**连麦**、**直播**、**互动**、**RTMP**
 
 ####原理科普
 
@@ -21,7 +20,7 @@
 3. [ijkplayer-播放器](https://github.com/Bilibili/ijkplayer)
 
 
-####**流媒体-服务器-CDN**
+####流媒体-服务器-CDN
 
 1. [奥点云](http://www.aodianyun.com/)
 4. [七牛](http://www.qiniu.com/)
@@ -79,6 +78,7 @@
 2. [直播逐渐渗透各行各业，在未来有哪些新的趋势？](https://www.zhihu.com/question/48106149)
 3. [给你一幅中国 VR 产业的全景图（内附PDF版）](http://geekpark-media.qiniudn.com/geekpark-vr-report.pdf)
 4. [花椒和映客直播App竞品分析](http://www.woshipm.com/evaluating/305667.html)
+5. [在直播大战中杀出重围的一种套路—搞CP](http://mp.weixin.qq.com/s?__biz=MjM5MjgwNjgwMA==&mid=2649764998&idx=1&sn=dddc9091451130ede06d5533f5f699a9&scene=1&srcid=0901KeN82NVg2zNtC9s4aXoF#wechat_redirect)
 
 
 
@@ -87,5 +87,4 @@
 
 > 
 **QQ群：580477436**
-
 **Email: zhulang@dync.cc**
