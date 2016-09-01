@@ -124,10 +124,10 @@
 
 ---
 **注意：**`doc`文件夹里面有一些文档；
+[GitHub持续更新-欢迎Star](https://github.com/DyncLang/DevLiveBook)
 
 **欢迎加入我们一起研究直播技术：** 
 
-[GitHub持续更新-欢迎Star](https://github.com/DyncLang/DevLiveBook)
 > 
 **QQ群：580477436** </br>
 
