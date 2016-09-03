@@ -18,6 +18,7 @@
 8. [【HTML 5】 视频直播一站式扫盲](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=1&sn=a292ff3b499168f4eb589e40b7aa6d13&scene=4#wechat_redirect)
 9. [【React Native】 在直播应用中的实践 | 架构师实践日](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190492&idx=1&sn=1e63171591ca6bb4e83bd5cc16aefbff&scene=0&key=8d8120cb97983fad78d4439160fb7aa075f4d554feb0dc78797c41592277d6ac71005bd52f7581cd5662dd4f04b657c3&ascene=0&uin=MjIxOTQ3OTM1&devicetype=iMac%20MacBookAir6,2%20OSX%20OSX%2010.11.5%20build%2815F34%29&version=11020201&pass_ticket=%2bHT0TrV0J81HeO2LhW3/jdBApmf%2bX8PC/%2bITJ9F92lo=)
 10. [TCP 的那些事儿（上）](http://coolshell.cn/articles/11564.html)
+11. [【移动开发】关于视频直播技术，你想要知道的都在这里了（三）编码和封装](http://www.jianshu.com/p/b61cd0bc2abe)
 
 
 
@@ -55,6 +56,7 @@
  1. [视频直播中用户连麦技术模型与特点分析（转载）](http://www.jianshu.com/p/d525a4ca1d17)
  2. [全球首创4人连麦-RTMP + RTC](https://www.anyrtc.io/RTMPC-product/)
  3. [亲加通讯云郝飞：探讨直播低延迟低流量的粉丝连麦技术](http://www.csdn.net/article/a/2016-07-08/15839390)
+ 4. [探讨直播低延迟低流量的粉丝连麦技术](http://mp.weixin.qq.com/s?__biz=MzI4NzE1NTYyMg==&mid=2651101375&idx=1&sn=9f1469979c93fbba5ecb5f5fd1faea5b&scene=5&srcid=07077MlnmSrrscM6SteuLpAN#rd)
 
 #### 性能优化
 1. [移动直播技术秒开优化经验（含PPT）](http://toutiao.com/i6278412629417394689/)
@@ -110,7 +112,7 @@
 7. [“映客直播”产品体验报告](http://www.jianshu.com/p/6bb63eff1654)
 8. [移动直播异军突起：ME直播产品体验报告](http://www.woshipm.com/evaluating/339187.html)
 
-####业界新闻-
+####业界新闻
 
 1. [AnyRTC：国内独家拥有四连麦技术的直播平台](http://www.jianshu.com/p/d106a1756d8a)
 2. [直播逐渐渗透各行各业，在未来有哪些新的趋势？](https://www.zhihu.com/question/48106149)
@@ -124,6 +126,7 @@
 
 ---
 **注意：**`doc`文件夹里面有一些文档；
+
 [GitHub持续更新-欢迎Star](https://github.com/DyncLang/DevLiveBook)
 
 **欢迎加入我们一起研究直播技术：** 
