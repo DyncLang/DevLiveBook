@@ -20,10 +20,9 @@
 10. [TCP 的那些事儿（上）](http://coolshell.cn/articles/11564.html)
 11. [【移动开发】关于视频直播技术，你想要知道的都在这里了（三）编码和封装](http://www.jianshu.com/p/b61cd0bc2abe)
 
-
-
 #### WebRTC 
 
+1. [AnyRTC-RTMP 商业级开源代码，高效稳定](https://github.com/AnyRTC/AnyRTC-RTMP)
 1. [Getting Started with WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/basics/)
 1. [【WebRTC】使用WebRTC搭建前端视频聊天室——入门篇](http://lingyu.wang/#/post/2014/3/15/webRTC-1)
 2. [【WebRTC】用WebRTC搭建前端视频聊天室——信令篇](http://lingyu.wang/#/post/2014/3/18/webRTC-2)
@@ -58,12 +57,14 @@
  3. [亲加通讯云郝飞：探讨直播低延迟低流量的粉丝连麦技术](http://www.csdn.net/article/a/2016-07-08/15839390)
  4. [探讨直播低延迟低流量的粉丝连麦技术](http://mp.weixin.qq.com/s?__biz=MzI4NzE1NTYyMg==&mid=2651101375&idx=1&sn=9f1469979c93fbba5ecb5f5fd1faea5b&scene=5&srcid=07077MlnmSrrscM6SteuLpAN#rd)
 
-#### 性能优化
+#### 性能优化-架构
 1. [移动直播技术秒开优化经验（含PPT）](http://toutiao.com/i6278412629417394689/)
 2. [QQ空间直播秒开优化实践 ](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1204&utm_medium=toutiao.io&utm_source=toutiao.io)
 3. [Facebook 直播如何撐起瞬間 80 萬人的流量？](http://www.inside.com.tw/2016/07/01/how-facebook-live-streams-to-800000-simultaneous-viewers?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 4. [浅析低延迟直播协议设计：RTP/RTCP](http://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652556829&idx=1&sn=5e341308669c930e36d9908919d4ab82&scene=0#wechat_redirect)
 5. [如何实现1080P延迟低于500ms的实时超清直播传输技术](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547697&idx=1&sn=acc748b7fcf0058b58e244970e51eabc&scene=0&from=groupmessage&isappinstalled=0#wechat_redirect)
+6. [《程序员》：聚光灯下的熊猫TV技术架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650687197&idx=1&sn=5fa841cbf95f2a8664906452bda37a91&chksm=bea6370e89d1be18d9e5b04a9c8000b2ffd336bf5f675e604b59eee4e07624193bc5e4838a4f&scene=0#wechat_redirect)
+7. [教育交互直播的技术难点与架构探索](http://mp.weixin.qq.com/s?__biz=MzI0NzUxMzQ2Mg==&mid=2247483762&idx=1&sn=3a0ffb2a2259652107861878f8d57546)
 
 
 ####优秀开源项目
@@ -96,6 +97,7 @@
 6. [腾讯云 - 老牌公司;](https://www.qcloud.com/solution/video.html)
 7. [声网  ](http://cn.agora.io/)
 8. [阿里云](https://help.aliyun.com/document_detail/29964.html)
+9. [一只视频程序猿的移动直播SDK初体验](http://science.china.com.cn/2016-06/06/content_8816359.htm)
 
 #### 专栏博客
 
@@ -112,7 +114,7 @@
 7. [“映客直播”产品体验报告](http://www.jianshu.com/p/6bb63eff1654)
 8. [移动直播异军突起：ME直播产品体验报告](http://www.woshipm.com/evaluating/339187.html)
 
-####业界新闻
+####业界新闻-
 
 1. [AnyRTC：国内独家拥有四连麦技术的直播平台](http://www.jianshu.com/p/d106a1756d8a)
 2. [直播逐渐渗透各行各业，在未来有哪些新的趋势？](https://www.zhihu.com/question/48106149)
@@ -126,7 +128,6 @@
 
 ---
 **注意：**`doc`文件夹里面有一些文档；
-
 [GitHub持续更新-欢迎Star](https://github.com/DyncLang/DevLiveBook)
 
 **欢迎加入我们一起研究直播技术：** 
